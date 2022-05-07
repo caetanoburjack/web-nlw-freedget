@@ -25,4 +25,6 @@ npm i tailwind-scrollbar -D
 
 npm i html2canvas
 
+npm i axios
+
 ```
